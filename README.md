@@ -19,3 +19,6 @@ Retrosheet: https://www.retrosheet.org/gamelogs/index.html
 
 ## Contents
 - `Pelota_Time.ipynb`: main notebook containing the analysis
+
+## Status
+This project is currently in progress and updated periodically.
